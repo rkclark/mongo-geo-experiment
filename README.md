@@ -1,3 +1,5 @@
 # Mongo Text / Geo index experiment
 Usage: 
-`npm start YOUR_SEARCH_QUERY`
+`node index.js LATITUDE LONGITUDE`
+
+i.e. `node index.js 52.577743 -0.921499` 
